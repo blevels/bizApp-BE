@@ -1,0 +1,11 @@
+{
+  "Port": "3000",
+  "Version": "1.0",
+  "database": {
+    "host": "localhost",
+    "user": "",
+    "password": "",
+    "port": "27017",
+    "database": ""
+  }
+}
